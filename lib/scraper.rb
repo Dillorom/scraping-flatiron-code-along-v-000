@@ -4,7 +4,7 @@ require 'open-uri'
 require_relative './course.rb'
 
 class Scraper
-    def get_page(url)
+    def get_page
       doc = scraper.get_page
     end
     def print_courses
